@@ -4,7 +4,7 @@ pokeneas = [
         "nombre": "Murkrow",
         "altura": 0.5,
         "habilidad": "Insomnio",
-        "imagen": "https://<BUCKET>.s3.<REGION>.amazonaws.com/arepamon.png",
+        "imagen": "https://pokeneasimages.s3.us-east-1.amazonaws.com/198.png",
         "frase": "Actúa según tu deber."
     },
     {
@@ -12,7 +12,7 @@ pokeneas = [
         "nombre": "Cherrim",
         "altura": 0.5,
         "habilidad": "Don floral",
-        "imagen": "https://<BUCKET>.s3.<REGION>.amazonaws.com/parquedrak.png",
+        "imagen": "https://pokeneasimages.s3.us-east-1.amazonaws.com/421.png",
         "frase": "El querer es dolor."
     },
     {
@@ -20,7 +20,7 @@ pokeneas = [
         "nombre": "kubfu",
         "altura": 0.6,
         "habilidad": "Fuerza mental",
-        "imagen": "https://<BUCKET>.s3.<REGION>.amazonaws.com/arepamon.png",
+        "imagen": "https://pokeneasimages.s3.us-east-1.amazonaws.com/891.png",
         "frase": "Dios ha muerto."
     },
     {
@@ -28,7 +28,7 @@ pokeneas = [
         "nombre": "Ducklett",
         "altura": 0.5,
         "habilidad": "Sacapecho",
-        "imagen": "https://<BUCKET>.s3.<REGION>.amazonaws.com/parquedrak.png",
+        "imagen": "https://pokeneasimages.s3.us-east-1.amazonaws.com/580.png",
         "frase": "Somos lo que hacemos."
     },
     {
@@ -36,7 +36,7 @@ pokeneas = [
         "nombre": "Torracat",
         "altura": 0.7,
         "habilidad": "Mar llamas",
-        "imagen": "https://<BUCKET>.s3.<REGION>.amazonaws.com/arepamon.png",
+        "imagen": "https://pokeneasimages.s3.us-east-1.amazonaws.com/726.png",
         "frase": "La razón guía la moral."
     },
     {
@@ -44,7 +44,7 @@ pokeneas = [
         "nombre": "Sirfetchd",
         "altura": 0.8,
         "habilidad": "Impasible",
-        "imagen": "https://<BUCKET>.s3.<REGION>.amazonaws.com/parquedrak.png",
+        "imagen": "https://pokeneasimages.s3.us-east-1.amazonaws.com/865.png",
         "frase": "El mundo es voluntad."
     },
     {
@@ -52,7 +52,7 @@ pokeneas = [
         "nombre": "Klawf",
         "altura": 1.3,
         "habilidad": "Coraza ira",
-        "imagen": "https://<BUCKET>.s3.<REGION>.amazonaws.com/arepamon.png",
+        "imagen": "https://pokeneasimages.s3.us-east-1.amazonaws.com/950.png",
         "frase": "Vive peligrosamente."
     },
     {
@@ -60,7 +60,7 @@ pokeneas = [
         "nombre": "Shiinotic",
         "altura": 1.0,
         "habilidad": "Iluminacion",
-        "imagen": "https://<BUCKET>.s3.<REGION>.amazonaws.com/parquedrak.png",
+        "imagen": "https://pokeneasimages.s3.us-east-1.amazonaws.com/756.png",
         "frase": "El hábito forma virtudes."
     },
 ]
